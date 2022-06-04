@@ -1,3 +1,3 @@
 SELECT name,age 
-FROM user 
+FROM users 
 WHERE age>= 18;
